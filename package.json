@@ -7,9 +7,6 @@
     "start": "node server.js",
     "backend": "nodemon server.js"
   },
-  "engines": {
-    "node": ">=14 <15"
-  },
   "author": "pinaki",
   "license": "ISC",
   "dependencies": {
